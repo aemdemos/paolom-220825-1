@@ -1,0 +1,246 @@
+{
+  "originUrl": "https://fondationroche.org",
+  "aborted": false,
+  "lastCrawled": "https://fondationroche.org/",
+  "urls": [
+    {
+      "url": "https://fondationroche.org/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "03f6ceaf93e466a3f7376a20d2d0c174ccecb390"
+    },
+    {
+      "url": "https://fondationroche.org/appel-a-projets-impact-data-saison-2/",
+      "source": "SITEMAPS",
+      "targetPath": "/appel-a-projets-impact-data-saison-2",
+      "id": "7c71f8f4edfc8e33d5722fee7d5e1e3c4bfec37e"
+    },
+    {
+      "url": "https://fondationroche.org/appel-projet-impact-data-saison-1/",
+      "source": "SITEMAPS",
+      "targetPath": "/appel-projet-impact-data-saison-1",
+      "id": "5a796831d2adddc7dd932ac695dfbc43e65188e3"
+    },
+    {
+      "url": "https://fondationroche.org/category/communiques-de-presse/",
+      "source": "SITEMAPS",
+      "targetPath": "/category/communiques-de-presse",
+      "id": "cf614e5f10a3fb07fdd3b4eb49cc6949c16a5cd1"
+    },
+    {
+      "url": "https://fondationroche.org/category/non-classe/",
+      "source": "SITEMAPS",
+      "targetPath": "/category/non-classe",
+      "id": "c9e8ebb723d1397bc59c03fe458ddd2604eb3ee6"
+    },
+    {
+      "url": "https://fondationroche.org/celebration-20-ans-fondation-roche/",
+      "source": "SITEMAPS",
+      "targetPath": "/celebration-20-ans-fondation-roche",
+      "id": "3861afe680ac1e22c1abf4688731f552a6887354"
+    },
+    {
+      "url": "https://fondationroche.org/conditions-generales-dutilisation/",
+      "source": "SITEMAPS",
+      "targetPath": "/conditions-generales-dutilisation",
+      "id": "251ab0bb884c993be864f51d41f43733e0c18457"
+    },
+    {
+      "url": "https://fondationroche.org/decouvrir-la-fondation-roche/decouvrez-ceux-qui-font-vivre-la-fondation/",
+      "source": "SITEMAPS",
+      "targetPath": "/decouvrir-la-fondation-roche/decouvrez-ceux-qui-font-vivre-la-fondation",
+      "id": "81a350826b93be24cc7af649a6a8be1ddf201f29"
+    },
+    {
+      "url": "https://fondationroche.org/decouvrir-la-fondation-roche/notre-mission/",
+      "source": "SITEMAPS",
+      "targetPath": "/decouvrir-la-fondation-roche/notre-mission",
+      "id": "bbd0db242317efd3433f6f9fd1f141d5a5fa712d"
+    },
+    {
+      "url": "https://fondationroche.org/decouvrir-la-fondation-roche/notre-politique-de-mecenat/",
+      "source": "SITEMAPS",
+      "targetPath": "/decouvrir-la-fondation-roche/notre-politique-de-mecenat",
+      "id": "e0d1e021b6128e36cc33e7d618bd32d205d99f4a"
+    },
+    {
+      "url": "https://fondationroche.org/defis-inclusion-numerique-sante-table-ronde/",
+      "source": "SITEMAPS",
+      "targetPath": "/defis-inclusion-numerique-sante-table-ronde",
+      "id": "65b60791f61fdeb99d4be7cea304563f3c3c2a24"
+    },
+    {
+      "url": "https://fondationroche.org/impact-data-appel-projets-cinquieme-saison/",
+      "source": "SITEMAPS",
+      "targetPath": "/impact-data-appel-projets-cinquieme-saison",
+      "id": "3f66e7805f3c88dd273346e0dff03db405cb4b88"
+    },
+    {
+      "url": "https://fondationroche.org/impact-data-appel-projets-troisieme-saison/",
+      "source": "SITEMAPS",
+      "targetPath": "/impact-data-appel-projets-troisieme-saison",
+      "id": "6eebb94104999084cf90423bddb6865a6832b99d"
+    },
+    {
+      "url": "https://fondationroche.org/impact-data-lancement-cinquieme-promotion/",
+      "source": "SITEMAPS",
+      "targetPath": "/impact-data-lancement-cinquieme-promotion",
+      "id": "81e187f0f668c71c03477096b7194fd067ed3ccb"
+    },
+    {
+      "url": "https://fondationroche.org/impact-data-saison-3-cloture/",
+      "source": "SITEMAPS",
+      "targetPath": "/impact-data-saison-3-cloture",
+      "id": "6a3172b1c0e25a5d4b7c86f030ef9d966cd2bfc4"
+    },
+    {
+      "url": "https://fondationroche.org/lancement-partenariat-fondation-roche-latitudes/",
+      "source": "SITEMAPS",
+      "targetPath": "/lancement-partenariat-fondation-roche-latitudes",
+      "id": "7c3ac7257480c611b0725398d69436c74cc0bf64"
+    },
+    {
+      "url": "https://fondationroche.org/nos-actions-de-mecenat/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-actions-de-mecenat",
+      "id": "09b93475008fd8090ad278b91ddbe3ac871bc8d8"
+    },
+    {
+      "url": "https://fondationroche.org/nos-actions-de-mecenat/etude-impact-programme-impact-data/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-actions-de-mecenat/etude-impact-programme-impact-data",
+      "id": "7d1ba124b5ad7eab50dfdc0a66e95367774d9dfb"
+    },
+    {
+      "url": "https://fondationroche.org/nos-actions-de-mecenat/impact-data-saison-1/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-actions-de-mecenat/impact-data-saison-1",
+      "id": "e86d7932261f20693452d09499b5e17aacd8bfc4"
+    },
+    {
+      "url": "https://fondationroche.org/nos-actions-de-mecenat/impact-data-saison-3/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-actions-de-mecenat/impact-data-saison-3",
+      "id": "e65d88367185739b6aed528770c123ca38ceb9ce"
+    },
+    {
+      "url": "https://fondationroche.org/nos-actions-de-mecenat/impact-data-saison-4/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-actions-de-mecenat/impact-data-saison-4",
+      "id": "6ce7615b109da02268ee0729f6f108b9f8ff428a"
+    },
+    {
+      "url": "https://fondationroche.org/nos-actualites/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-actualites",
+      "id": "83663fc374956e16db06feb8353e7ad97fadf2b1"
+    },
+    {
+      "url": "https://fondationroche.org/nos-initiatives/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-initiatives",
+      "id": "4d3232257973dc2cc5aaacf61c1d2dc4e3263c1c"
+    },
+    {
+      "url": "https://fondationroche.org/nos-initiatives/avis-citoyen-deuxieme-edition/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-initiatives/avis-citoyen-deuxieme-edition",
+      "id": "da309a7999ce7377fc31c5d0ae6149cea856412b"
+    },
+    {
+      "url": "https://fondationroche.org/nos-initiatives/avis-citoyen/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-initiatives/avis-citoyen",
+      "id": "b950734cc1fa8cd407d9bbe69cf22f0e9f7d7f27"
+    },
+    {
+      "url": "https://fondationroche.org/nos-initiatives/bilan-tour-france-inclusion-numerique/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-initiatives/bilan-tour-france-inclusion-numerique",
+      "id": "638363924c90b150e09f6ecfbddc3055c41e80f0"
+    },
+    {
+      "url": "https://fondationroche.org/nos-initiatives/observatoire-de-lacces-au-numerique-en-sante/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-initiatives/observatoire-de-lacces-au-numerique-en-sante",
+      "id": "d4ed3e702c09142d80f7840562e78a1de786ca19"
+    },
+    {
+      "url": "https://fondationroche.org/nos-initiatives/observatoire-numerique-sante-edition-2/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-initiatives/observatoire-numerique-sante-edition-2",
+      "id": "094becd090c1274d42137a7079e6f964fa33fd50"
+    },
+    {
+      "url": "https://fondationroche.org/nos-initiatives/parcours-de-confiance-pour-le-partage-de-donnees-de-sante/",
+      "source": "SITEMAPS",
+      "targetPath": "/nos-initiatives/parcours-de-confiance-pour-le-partage-de-donnees-de-sante",
+      "id": "ec42fd1efc909d23e05c7b716c86259c9d1d1a05"
+    },
+    {
+      "url": "https://fondationroche.org/numerique-sante-acceleration-usages-inegalites-acces/",
+      "source": "SITEMAPS",
+      "targetPath": "/numerique-sante-acceleration-usages-inegalites-acces",
+      "id": "0a89e0a30634afa513e58457c90f5761fb4708fb"
+    },
+    {
+      "url": "https://fondationroche.org/presentation-des-laureats-de-lappel-a-projets-2018-de-la-fondation-roche/",
+      "source": "SITEMAPS",
+      "targetPath": "/presentation-des-laureats-de-lappel-a-projets-2018-de-la-fondation-roche",
+      "id": "38234b2a3f62725af237b41c7288c008dc895b6e"
+    },
+    {
+      "url": "https://fondationroche.org/programme-impact-data-lancement-quatrieme-promotion/",
+      "source": "SITEMAPS",
+      "targetPath": "/programme-impact-data-lancement-quatrieme-promotion",
+      "id": "0f0a53bdc1739d1557804b673de5bbc6138689e0"
+    },
+    {
+      "url": "https://fondationroche.org/propositions-citoyennes-acces-numerique-sante/",
+      "source": "SITEMAPS",
+      "targetPath": "/propositions-citoyennes-acces-numerique-sante",
+      "id": "aa168ebf57a576d290ff0c02c3f63c7703e077d2"
+    },
+    {
+      "url": "https://fondationroche.org/restitution-2e-avis-citoyen/",
+      "source": "SITEMAPS",
+      "targetPath": "/restitution-2e-avis-citoyen",
+      "id": "248f089c081f23640ef2f3d8b6a07195ac0b52e5"
+    },
+    {
+      "url": "https://fondationroche.org/tour-france-inclusion-numerique-huitieme-etape/",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-france-inclusion-numerique-huitieme-etape",
+      "id": "3bc4135fc59fa88e5e4d6aec7a73ec9a92d58228"
+    },
+    {
+      "url": "https://fondationroche.org/tour-france-inclusion-numerique-sante/",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-france-inclusion-numerique-sante",
+      "id": "03fa9f276907a949e06f20b62c2d226c50e697b7"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://fondationroche.org/decouvrir-la-fondation-roche/",
+      "status": "301 Moved Permanently Redirect: https://fondationroche.org/decouvrir-la-fondation-roche/notre-mission/"
+    },
+    {
+      "url": "https://fondationroche.org/nos-initiatives/nos-precedentes-initiatives/",
+      "status": "301 Moved Permanently Redirect: https://fondationroche.org/nos-initiatives/"
+    }
+  ]
+}
